@@ -24,7 +24,7 @@
 - ### Chat Box
 - <img width="1349" height="728" alt="image" src="https://github.com/user-attachments/assets/6c475243-d8e0-4928-8055-0d849312c588" />
 - ### Online Filter
-<img width="1330" height="684" alt="image" src="https://github.com/user-attachments/assets/2ba1cacf-41b7-410a-b7e5-fb4d05b23c3f" />
+  <img width="1330" height="684" alt="image" src="https://github.com/user-attachments/assets/2ba1cacf-41b7-410a-b7e5-fb4d05b23c3f" />
 - ### Profile Page
 - <img width="1324" height="684" alt="image" src="https://github.com/user-attachments/assets/fe2f1997-2e70-4eb3-b6b6-ca93cd9d15ff" />
 - ### Image Being shared
